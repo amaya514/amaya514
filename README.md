@@ -30,5 +30,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaya-payagala-016963326)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amayapayagala514@gmail.com)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amaya514&show_icons=true&theme=tokyonight&hide_border=true)
